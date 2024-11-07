@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    font-family: ;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.flex{
+    color: #ffad33;
+}
+.price{
+    color: #DB4444;
+
+}
+.del{
+    color:#000000;
+    opacity: 50%;
+}
+.discount{
+    color: #FAFAFA;
+    background-color: #DB4444;
+    
+}
+.whiteSmoke{
+    background-color: whitesmoke;
+    
+}
+.lead{
+    color: #000000;
+    opacity: 50%;
+    position: relative;
+    left: 10px;
+    
+}
